@@ -1,0 +1,18 @@
+admin/crunBackup:	$host="192.168.1.101:3309"; // Host name
+admin/db_connect.php:$host = "192.168.1.101:3309"; // Host name
+admin/crunInsertInstituteRecord.php:	$host="192.168.1.101:3309"; // Host name
+API/config/db_connect.php:$host = "192.168.1.101:3309"; // Host name	
+choiceFilling/db_connect.php:	$host="192.168.1.101:3309"; // Host name
+counsellor/db_connect.php:	$host="192.168.1.101:3309"; // Host name
+counsellor1/db_connect.php:	$host="192.168.1.101:3309"; // Host name
+crunInsertInstituteRecord.php:	$host="192.168.1.101:3309"; // Host name
+db_connect_old.php:$host = "192.168.1.101:3309"; // Host name	
+db_connect.php:$host = "192.168.1.101:3309"; // Host name
+DBT_HO/db_connect.php:$host = "192.168.1.101:3309"; // Host name
+institutes/db_connect.php:	$host="192.168.1.101:3309"; // Host name
+rifd/finance/operations/annexureC.php:	$host="192.168.1.101:3309"; // Host name
+rifd/finance/operations/db_connect.php:	$host="192.168.1.101:3309"; // Host name
+rifd/finance/paymentsNewFlow/operations/data/aadharStudentExport1.php:	$host="192.168.1.101:3309"; // Host name
+rifd/advisor/operations/config.php:$host = "192.168.1.101:3309"; // Host name
+sadmin/db_connect.php:	$host="192.168.1.101:3309"; // Host name
+  

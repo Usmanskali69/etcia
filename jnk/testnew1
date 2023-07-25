@@ -1,0 +1,11 @@
+<?php 
+error_reporting(1);
+ini_set('display_errors',E_ALL);
+
+if(!@copy("F:\jk_media\img\uploads\bckimg.jpg", "F:\jk_media\img\uploads\123.jpg"))
+{
+	echo "hi";
+}	
+
+
+?>  
